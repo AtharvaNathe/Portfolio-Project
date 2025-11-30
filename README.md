@@ -66,9 +66,21 @@ portfolio_site/
 
 ---
 
-## 🚀 How to Run Locally
+## 📌 Credits
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/YourUsername/portfolio-website.git
-cd portfolio-website
+Developed by Atharva Anil Nathe
+
+UI inspired by premium websites (Nike, Amazon, Puma)
+
+Open-source libraries: Django, Bootstrap
+
+📄 License
+
+This project is open-source and licensed under the MIT License
+.
+
+🔗 Links
+
+Portfolio Live Demo: (Add link if deployed)
+
+
