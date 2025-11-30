@@ -60,7 +60,7 @@ portfolio_site/
 ## 📸 Screenshots
 
 **Homepage:**
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/Screenshot 2025-11-30 180434)
 
 
 
