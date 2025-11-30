@@ -70,17 +70,15 @@ portfolio_site/
 
 Developed by Atharva Anil Nathe
 
-UI inspired by premium websites (Nike, Amazon, Puma)
 
-Open-source libraries: Django, Bootstrap
 
-📄 License
+## 📄 License
 
 This project is open-source and licensed under the MIT License
 .
 
-🔗 Links
+## 🔗 Links
 
-Portfolio Live Demo: (Add link if deployed)
+Portfolio Live Demo: Soon...
 
 
