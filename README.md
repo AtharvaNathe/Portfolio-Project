@@ -34,3 +34,41 @@ Designed with **glassmorphism, gradients, bold typography, and subtle 3D hover e
 
 ## 📁 Project Structure
 
+portfolio_site/
+│
+├── portfolio/
+│ ├── templates/
+│ │ └── portfolio/
+│ │ ├── base.html
+│ │ └── index.html
+│ ├── static/
+│ │ └── portfolio/
+│ │ ├── css/style.css
+│ │ ├── js/main.js
+│ │ └── img/hero-graphic.svg
+│ └── views.py
+├── portfolio_site/
+│ ├── settings.py
+│ ├── urls.py
+│ └── wsgi.py
+├── manage.py
+└── README.md
+
+
+---
+
+## 📸 Screenshots
+
+**Homepage:**
+![Homepage](screenshots/homepage.png)
+
+
+
+---
+
+## 🚀 How to Run Locally
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/YourUsername/portfolio-website.git
+cd portfolio-website
