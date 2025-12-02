@@ -10,7 +10,7 @@
 ## 🌟 Project Overview
 
 A **modern, professional portfolio website** to showcase skills, projects, experience, and contact information.  
-Designed with **glassmorphism, gradients, bold typography, and subtle 3D hover effects**, inspired by top-tier brands like Nike, Amazon, and Puma.
+Designed with **glassmorphism, gradients, bold typography, and subtle 3D hover effects**.
 
 **Key Features:**
 - Hero section with interactive CTA buttons
