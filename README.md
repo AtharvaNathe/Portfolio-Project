@@ -19,7 +19,7 @@ Designed with **glassmorphism, gradients, bold typography, and subtle 3D hover e
 - Skills section with hover effects
 - Contact section
 - Gradient buttons with light/dark theme
-- Fully responsive design
+- Fully responsive design 
 
 ---
 
